@@ -1,7 +1,5 @@
 require('env2')('.env');
 
-console.log(process.env)
-
 module.exports = {
   "development": {
     username: 'wcazrglzlrtgih',
